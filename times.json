@@ -1,0 +1,185 @@
+{
+    "teams": [
+      {
+        "name": "América Mineiro",
+        "players": [
+          "João Silva", "Pedro Santos", "Carlos Oliveira", "Lucas Pereira", "Gabriel Costa",
+          "Felipe Alves", "Marcos Souza", "Rafael Lima", "Thiago Gomes", "Vitor Mendes",
+          "André Luiz", "Renato Ribeiro", "Diego Fernandes", "Gustavo Henrique", "Bruno Martins",
+          "Eduardo Nunes", "Daniel Araújo", "Leonardo Freitas", "Rogério Lopes", "Alexandre Rocha"
+        ]
+      },
+      {
+        "name": "Athletico Paranaense",
+        "players": [
+          "Rafael Veiga", "Santos Ferreira", "Thiago Heleno", "Leo Cittadini", "Vitinho Silva",
+          "Nikão Matos", "Christian Almeida", "Abner Vinícius", "Richard Franco", "Renato Kayzer",
+          "David Terans", "Marcinho Santos", "Erick Andrade", "José Ivaldo", "Khellven Souza",
+          "Zé Roberto", "Jadson Rodrigues", "Matheus Babi", "Pedro Henrique", "Kayque Soares"
+        ]
+      },
+      {
+        "name": "Atlético Mineiro",
+        "players": [
+          "Hulk Souza", "Guilherme Arana", "Jair Rodrigues", "Keno Oliveira", "Eduardo Vargas",
+          "Everson Felipe", "Mariano Ferreira", "Réver Santos", "Igor Rabello", "Nathan Silva",
+          "Dylan Borrero", "Allan Rodrigues", "Guga Silva", "Nacho Fernández", "Jefferson Savarino",
+          "Sasha Silva", "Alan Franco", "Calebe Gonçalves", "Tchê Tchê", "Diego Costa"
+        ]
+      },
+      {
+        "name": "Bahia",
+        "players": [
+          "Gilberto Oliveira", "Nino Paraíba", "Rodriguinho Silva", "Danielzinho Santos", "Matheus Teixeira",
+          "Juninho Capixaba", "Lucas Fonseca", "Rossi Pereira", "Patrick de Lucca", "Thaciano Melo",
+          "Hernane Brocador", "Matheus Bahia", "Índio Ramírez", "Maycon Douglas", "Jonas Santos",
+          "Luiz Otávio", "Ronaldo Mendes", "Óscar Ruiz", "Tony Anderson", "Edson Fernando"
+        ]
+      },
+      {
+        "name": "Botafogo",
+        "players": [
+          "Diego Cavalieri", "Rafael Forster", "Kanu Santos", "Marcelo Benevenuto", "Hugo Ferreira",
+          "Bruno Nazário", "Rafael Navarro", "Matheus Babi", "Warley Silva", "Kevin Andrade",
+          "Pedro Raul", "Cícero Santos", "Luiz Otávio", "Caio Alexandre", "Victor Luís",
+          "Saulo Santos", "Iván Angulo", "Rhuan Silva", "Lucas Campos", "Fernando Costanza"
+        ]
+      },
+      {
+        "name": "Corinthians",
+        "players": [
+          "Cássio Ramos", "Fagner Lemos", "Gil Nascimento", "Fábio Santos", "Gabriel Pereira",
+          "Luan Vieira", "Jô Silva", "Mateus Vital", "Gustavo Mantuan", "Ramiro Benetti",
+          "Ángelo Araos", "Roni Moraes", "Xavier Lima", "Camacho Almeida", "Gabriel Pereira",
+          "Léo Natel", "Bruno Méndez", "Lucas Piton", "João Victor", "Danilo Avelar"
+        ]
+      },
+      {
+        "name": "Coritiba",
+        "players": [
+          "Wilson Rodrigues", "Natanael Fogaça", "Henrique Silva", "Matheus Sales", "Igor Paixão",
+          "Léo Gamalho", "Waguininho Silva", "Robinho Souza", "Giovanni Augusto", "Matheus Bueno",
+          "Gustavo Morínigo", "Guilherme Biro", "Júnior Urso", "Rafinha Oliveira", "Ricardo Oliveira",
+          "Sabino Santos", "Nathan Silva", "Yan Sasse", "Vitor Carvalho", "Pablo Thomaz"
+        ]
+      },
+      {
+        "name": "Cruzeiro",
+        "players": [
+          "Fábio Santos", "Rafael Sobis", "Thiago Neves", "Maurício Lima", "Cacá Santos",
+          "Ariel Cabral", "Matheus Pereira", "Patrick Brey", "Élber Pereira", "Eduardo Brock",
+          "Marcelo Moreno", "Giovanni Piccolomo", "Jadson Silva", "Matheus Neris", "Rafael Luiz",
+          "Jean Lucas", "Ramon Ábila", "Henrique Almeida", "Eduardo Menezes", "Marco Antônio"
+        ]
+      },
+      {
+        "name": "Cuiabá",
+        "players": [
+          "Walter Silva", "Lucas Ramon", "Anderson Conceição", "Paulão Santos", "Matheus Barbosa",
+          "Pepê Souza", "Clayson Santos", "Elton Rodrigues", "Jenison Silva", "Rafael Gava",
+          "Uendel Silva", "Camilo Santana", "Felipe Marques", "Jonathan Cafu", "Guilherme Pato",
+          "João Lucas", "André Luís", "Marllon Santos", "Rafael Elias", "Yuri Lima"
+        ]
+      },
+      {
+        "name": "Flamengo",
+        "players": [
+          "Diego Alves", "Rodrigo Caio", "Filipe Luís", "Willian Arão", "Gerson Santos",
+          "Bruno Henrique", "Gabriel Barbosa", "Everton Ribeiro", "Arrascaeta De Arrascaeta", "Vitinho Silva",
+          "Pedro Guilherme", "Isla Silva", "Diego Ribas", "Thiago Maia", "Hugo Souza",
+          "Léo Pereira", "Gustavo Henrique", "Matheuzinho Silva", "Michael Oliveira", "Renê Rodrigues"
+        ]
+      },
+      {
+        "name": "Fluminense",
+        "players": [
+          "Marcos Felipe", "Nino Santos", "Lucas Claro", "Egídio Rodrigues", "Martinelli Santos",
+          "Yago Felipe", "Nenê Santos", "Fred Rodrigues", "Caio Paulista", "Gabriel Teixeira",
+          "Luccas Claro", "Danilo Barcelos", "Wellington Silva", "Lucca Borges", "Hudson Santos",
+          "Michel Araújo", "Ganso Souza", "André Trindade", "Calegari Gomes", "Samuel Xavier"
+        ]
+      },
+      {
+        "name": "Fortaleza",
+        "players": [
+          "Felipe Alves", "Tinga Silva", "Marcelo Benevenuto", "Bruno Melo", "Ederson Santos",
+          "David Souza", "Wellington Paulista", "Yago Pikachu", "Osvaldo Oliveira", "Robson Fernandes",
+          "Lucas Crispim", "Ronald Silva", "Romarinho Santos", "Juninho Santos", "Igor Torres",
+          "Daniel Guedes", "Gabriel Dias", "João Paulo", "Felipe Rodrigues", "Matheus Vargas"
+        ]
+      },
+      {
+        "name": "Goiás",
+        "players": [
+          "Tadeu Souza", "David Duarte", "Fábio Sanches", "Heron Silva", "Miguel Figueira",
+          "Vinícius Lopes", "Daniel Bessa", "Fernandão Santos", "Sandro Oliveira", "Douglas Baggio",
+          "Keko Silva", "Miguel Ferreira", "Victor Andrade", "Rafael Moura", "Breno Santos",
+          "Shaylon Souza", "Matheus Sales", "Henrique Almeida", "Jefferson Silva", "Yago Rocha"
+        ]
+      },
+      {
+        "name": "Grêmio",
+        "players": [
+          "Vanderlei Silva", "Geromel Santos", "Kannemann Rodrigues", "Victor Ferraz", "Diogo Barbosa",
+          "Jean Pyerre", "Diego Souza", "Ferreira Silva", "Alisson Silva", "Pepê Rodrigues",
+          "Maicon Santos", "Matheus Henrique", "Lucas Silva", "Paulo Miranda", "Bruno Cortez",
+          "David Braz", "Jérôme Silva", "Luiz Fernando", "Robinho Santos", "Thaciano Almeida"
+        ]
+      },
+      {
+        "name": "Internacional",
+        "players": [
+          "Marcelo Lomba", "Víctor Cuesta", "Rodrigo Dourado", "Edenílson Santos", "Thiago Galhardo",
+          "Paolo Guerrero", "Yuri Alberto", "Patrick Santos", "Moisés Silva", "Rodinei Silva",
+          "Heitor Santos", "Johnny Cardoso", "Boschilia Santos", "Nonato Santos", "Lucas Ribeiro",
+          "Pedro Henrique", "Vinícius Mello", "Caio Vidal", "Maurício Magalhães", "Gabriel Boschilia"
+        ]
+      },
+      {
+        "name": "Palmeiras",
+        "players": [
+          "Weverton Silva", "Luan Silva", "Gustavo Gómez", "Marcos Rocha", "Felipe Melo",
+          "Danilo Silva", "Patrick de Paula", "Zé Rafael", "Rony Silva", "Raphael Veiga",
+          "Breno Lopes", "Willian Silva", "Gabriel Menino", "Matías Viña", "Victor Luis",
+          "Jailson Silva", "Lucas Lima", "Gabriel Veron", "Wesley Santos", "Mayke Rocha"
+        ]
+      },
+      {
+        "name": "Red Bull Bragantino",
+        "players": [
+          "Cleiton Silva", "Léo Ortiz", "Aderlan Silva", "Edimar Santos", "Raul Silva",
+          "Lucas Evangelista", "Eric Ramires", "Ytalo Silva", "Artur Guimarães", "Alerrandro Santos",
+          "Jan Hurtado", "Helinho Silva", "Weverson Santos", "Luan Cândido", "Bruno Tubarão",
+          "Natan Silva", "Rafael Luiz", "Ramires Santos", "Everson Silva", "Cuello Silva"
+        ]
+      },
+      {
+        "name": "Santos",
+        "players": [
+          "João Paulo", "Marinho Souza", "Soteldo Silva", "Kaio Jorge", "Luan Peres",
+          "Pará Silva", "Alison Silva", "Felipe Jonatan", "Lucas Braga", "Carlos Sánchez",
+          "Sandry Santos", "Lucas Lourenço", "Jean Mota", "Madson Silva", "John Victor",
+          "Laércio Silva", "Vinícius Balieiro", "Marcos Leonardo", "Ivonei Santos", "Alex Nascimento"
+        ]
+      },
+      {
+        "name": "São Paulo",
+        "players": [
+          "Tiago Volpi", "Bruno Alves", "Arboleda Silva", "Reinaldo Silva", "Luan Santos",
+          "Igor Gomes", "Gabriel Sara", "Luciano Santos", "Pablo Silva", "Vitor Bueno",
+          "Daniel Alves", "Rodrigo Nestor", "Gabriel Neves", "Galeano Santos", "Eder Silva",
+          "Miranda Silva", "Leo Pelé", "Benítez Silva", "Joao Rojas", "Igor Vinícius"
+        ]
+      },
+      {
+        "name": "Vasco da Gama",
+        "players": [
+          "Fernando Miguel", "Leandro Castán", "Werley Silva", "Henrique Silva", "Andrey Santos",
+          "Yago Pikachu", "Cano Silva", "Benítez Silva", "Juninho Silva", "Pikachu Silva",
+          "Léo Matos", "Talles Magno", "Marcos Junior", "Cayo Tenório", "Lucão Silva",
+          "Bruno Gomes", "Cláudio Winck", "Matheus Barbosa", "João Pedro", "Tiago Reis"
+        ]
+      }
+    ]
+  }
+  
